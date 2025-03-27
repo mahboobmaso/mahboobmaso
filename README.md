@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**mahboobmaso/mahboobmaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# 👋 Hi, I'm Mosawer Mahboob!
+## 👋 Hi, I'm Mosawer Mahboob!
 
 I'm a passionate **Full Stack Developer** who loves building **web** and **mobile apps**. I specialize in **TypeScript**, **React**, and **React Native**, but I'm also skilled in **Python**, **SQL**, **NoSQL**, and **API development**. 🔧💻
 
